@@ -1,0 +1,18 @@
+-- // converted using mech's animoduler
+local cfr = CFrame.new
+
+return {
+	{
+		tm = 0;
+		["Right Arm"] = {
+			cf = cfr(0,0,0,0,-1,0,1,0,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Light"] = {
+			cf = cfr(0,0,0,1,0,0,0,0,1,0,-1,0);
+			es = "Constant";
+			ed = "In";
+		};
+	};
+}
