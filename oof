@@ -1,0 +1,74 @@
+-- // converted using mech's animoduler
+local cfr = CFrame.new
+
+return {
+	{
+		tm = 0;
+		["Torso"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Right Arm"] = {
+			cf = cfr(0,0,0,.982,-.191,0,.191,.982,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Chainsaw"] = {
+			cf = cfr(0,.077,-.3,1,0,0,0,.342,.94,0,-.94,.342);
+			es = "Constant";
+			ed = "In";
+		};
+		["Left Arm"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+	};
+	{
+		tm = .2;
+		["Torso"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Right Arm"] = {
+			cf = cfr(0,0,0,.819,-.574,0,.574,.819,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Chainsaw"] = {
+			cf = cfr(0,.396,-.238,1,0,0,0,1,-.001,0,.001,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Left Arm"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+	};
+	{
+		tm = .4;
+		["Torso"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Right Arm"] = {
+			cf = cfr(-.078,0,-.134,.751,-.629,.201,.66,.729,-.181,-.033,.269,.963);
+			es = "Constant";
+			ed = "In";
+		};
+		["Chainsaw"] = {
+			cf = cfr(-.173,.48,-.041,.836,-.523,.164,.035,-.248,-.968,.547,.816,-.189);
+			es = "Constant";
+			ed = "In";
+		};
+		["Left Arm"] = {
+			cf = cfr(-.197,-.233,-.574,.062,.56,-.826,-.833,.485,.266,.549,.672,.497);
+			es = "Constant";
+			ed = "In";
+		};
+	};
+}
