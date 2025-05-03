@@ -1,0 +1,53 @@
+-- // converted using mech's animoduler
+local cfr = CFrame.new
+
+return {
+	{
+		tm = 0;
+		["Torso"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Left Leg"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Right Leg"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Head"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Right Arm"] = {
+			cf = cfr(0,.313,0,-1,.017,0,-.017,-1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Chainsaw"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Light"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Left Arm"] = {
+			cf = cfr(0,.313,0,-1,-.017,0,.017,-1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Bike"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+	};
+}
