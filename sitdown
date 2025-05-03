@@ -1,0 +1,33 @@
+-- // converted using mech's animoduler
+local cfr = CFrame.new
+
+return {
+	{
+		tm = 0;
+		["Torso"] = {
+			cf = cfr(0,0,-1.856,1,0,0,0,1,0,0,0,1);
+			es = "Linear";
+			ed = "In";
+		};
+		["Left Leg"] = {
+			cf = cfr(-.439,.296,0,.105,.995,0,-.995,.105,0,0,0,1);
+			es = "Linear";
+			ed = "In";
+		};
+		["Right Arm"] = {
+			cf = cfr(0,-.32,0,.974,.043,-.221,0,.982,.191,.225,-.186,.956);
+			es = "Linear";
+			ed = "In";
+		};
+		["Left Arm"] = {
+			cf = cfr(0,-.32,0,.998,-.018,.067,0,.966,.259,-.07,-.258,.964);
+			es = "Linear";
+			ed = "In";
+		};
+		["Right Leg"] = {
+			cf = cfr(.439,.799,0,.643,-.766,0,.766,.643,0,0,0,1);
+			es = "Linear";
+			ed = "In";
+		};
+	};
+}
