@@ -1,0 +1,269 @@
+-- // converted using mech's animoduler
+local cfr = CFrame.new
+
+return {
+	{
+		tm = 0;
+		["Torso"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Left Leg"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Right Arm"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Head"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Left Arm"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Right Leg"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+	};
+	{
+		tm = .1;
+		["Torso"] = {
+			cf = cfr(0,0,0,0,-1,0,1,0,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Left Leg"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Right Arm"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Head"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Left Arm"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Right Leg"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+	};
+	{
+		tm = .2;
+		["Torso"] = {
+			cf = cfr(0,0,0,-1,0,0,0,-1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Left Leg"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Right Arm"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Head"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Left Arm"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Right Leg"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+	};
+	{
+		tm = .3;
+		["Torso"] = {
+			cf = cfr(0,0,0,0,1,0,-1,0,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Left Leg"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Right Arm"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Head"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Left Arm"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Right Leg"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+	};
+	{
+		tm = .433;
+		["Torso"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Left Leg"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Right Arm"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Head"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Left Arm"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Right Leg"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+	};
+	{
+		tm = .5;
+		["Torso"] = {
+			cf = cfr(0,.972,0,1,0,0,0,.707,.707,0,-.707,.707);
+			es = "Constant";
+			ed = "In";
+		};
+		["Left Leg"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Right Arm"] = {
+			cf = cfr(0,0,0,-.766,-.643,0,.643,-.766,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Head"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Left Arm"] = {
+			cf = cfr(0,0,0,-.766,.643,0,-.643,-.766,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Right Leg"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+	};
+	{
+		tm = .667;
+		["Torso"] = {
+			cf = cfr(0,1.305,-2.118,1,0,0,0,0,1,0,-1,0);
+			es = "Constant";
+			ed = "In";
+		};
+		["Left Leg"] = {
+			cf = cfr(0,0,0,1,0,0,0,.94,.342,0,-.342,.94);
+			es = "Constant";
+			ed = "In";
+		};
+		["Right Arm"] = {
+			cf = cfr(0,.542,.542,1,0,0,0,-.707,.707,0,-.707,-.707);
+			es = "Constant";
+			ed = "In";
+		};
+		["Head"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Left Arm"] = {
+			cf = cfr(0,.504,.645,1,0,0,0,-.707,.707,0,-.707,-.707);
+			es = "Constant";
+			ed = "In";
+		};
+		["Right Leg"] = {
+			cf = cfr(0,0,0,1,0,0,0,.94,.342,0,-.342,.94);
+			es = "Constant";
+			ed = "In";
+		};
+	};
+	{
+		tm = 1;
+		["Torso"] = {
+			cf = cfr(0,1.305,-2.118,1,0,0,0,0,1,0,-1,0);
+			es = "Constant";
+			ed = "In";
+		};
+		["Left Leg"] = {
+			cf = cfr(0,0,0,1,0,0,0,.94,.342,0,-.342,.94);
+			es = "Constant";
+			ed = "In";
+		};
+		["Right Arm"] = {
+			cf = cfr(0,.542,.542,1,0,0,0,-.707,.707,0,-.707,-.707);
+			es = "Constant";
+			ed = "In";
+		};
+		["Head"] = {
+			cf = cfr(0,0,0,1,0,0,0,1,0,0,0,1);
+			es = "Constant";
+			ed = "In";
+		};
+		["Left Arm"] = {
+			cf = cfr(0,.504,.645,1,0,0,0,-.707,.707,0,-.707,-.707);
+			es = "Constant";
+			ed = "In";
+		};
+		["Right Leg"] = {
+			cf = cfr(0,0,0,1,0,0,0,.94,.342,0,-.342,.94);
+			es = "Constant";
+			ed = "In";
+		};
+	};
+}
